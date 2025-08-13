@@ -9,9 +9,9 @@ MEYUO is a simple script to Download .m3u8 Films and Series Episodes and convert
 
 |       Platform         |Avaible                          |Coming Soon                         |
 |----------------|-------------------------------|-----------------------------|
-|Single backticks|   ✅  												 |						❌            	 |
-|Quotes          |   ❌            							 |            ✅               |
-|Dashes          |  ❌                           |         ✅                 |
+|Linux|   ✅  												 |						❌            	 |
+|macOS          |   ❌            							 |            ✅               |
+|Windows          |  ❌                           |         ✅                 |
 
 
 ## Download
